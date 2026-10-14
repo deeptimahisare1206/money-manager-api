@@ -31,7 +31,7 @@ public class SecurityConfig {
             "/health",
             "/login",
             "/register",
-            "/activate"
+            "/activate",
     };
 
     private final UserDetailsService appUserDetailsService;
